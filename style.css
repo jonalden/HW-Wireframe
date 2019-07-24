@@ -27,6 +27,7 @@ header {
     float: left;
     background-color: aquamarine;
     margin-bottom: 20px;
+    padding: 20px;
 }
 
 #heading {
@@ -39,8 +40,7 @@ header {
     width: 90%;
     height: 200px;
     margin-left: 30px;
-    margin-top: 60px;
-    margin-bottom: 20px 
+    margin-top: 60px; 
 }
 
 h1 {
@@ -63,7 +63,8 @@ aside {
     background: yellow;
     width: 38%;
     float: right;
-    height: 298px;
+    height: 318px;
+    padding: 20px;
 }    
 
 .clearfix::after {
